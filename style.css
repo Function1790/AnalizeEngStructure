@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    padding: 10px;
+}
+
+.analyzeBtn{
+    padding: 20px;
+    border: 1px solid;
+    width: 100px;
+    cursor: pointer;
+}
+
+.pronoun {
+    
+}
+
+.verb{
+
+}
+
+.noun {
+
+}
